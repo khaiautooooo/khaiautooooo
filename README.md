@@ -1,18 +1,31 @@
-# Hi there! 👋 I'm Khaiautooooo
+# Halo! 👋 Saya Khaiautooooo
 
-Lifelong Learner, currently working as a web developer.
+Saya adalah seorang **pengembang web** yang selalu bersemangat untuk belajar dan mengembangkan keterampilan. Berikut beberapa informasi tentang saya:
 
-### Tools:
-- Text Editor: Visual Studio Code
+## Tentang Saya
+- **Nama**: Khairil Rudi Wibowo
+- **Bahasa yang Dikuasai**:
+  - JavaScript
+  - Python
+  - Laravel (PHP)
+- **Kontak**:
+  - Email: khairilrudi1213@gmail.com
+  - Nomor Telepon: 085171232402
+- **Layanan yang Saya Tawarkan**:
+  - Pembuatan website
+  - Pembuatan bot Discord/Telegram/WhatsApp
+  - Konfigurasi server
+  - Layanan auto botting dengan Owobot
 
-### About Me:
-- 🌱 I’m currently learning Data Analytics.
-- 💬 Ask me about anything.
-- 📫 How to reach me: Email me!
-- 😄 Pronouns: She/Her.
-- 🎲 Drawing and writing are part of me.
+## Tentang Saya Secara Singkat
+Saya adalah seorang **pengembang web** yang berfokus pada pembuatan aplikasi dan situs web. Saya menggunakan **Visual Studio Code** sebagai teks editor utama. Selain itu, saya juga tertarik pada **Data Analytics** dan senang berkomunikasi dengan orang lain.
 
-### Let's connect!
-- [Twitter](https://twitter.com/yours)
-- [Instagram](https://www.instagram.com/yours/)
+Jangan ragu untuk bertanya lebih lanjut atau berbicara tentang proyek apa pun yang ingin Anda kerjakan. Saya siap membantu! 😊
+
+## Let's Connect!
+- Twitter
+- Instagram
 - Blog
+
+Terima kasih telah berbicara dengan saya! 🌟
+
