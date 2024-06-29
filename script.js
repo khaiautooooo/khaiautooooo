@@ -11,7 +11,7 @@ function updateSlides() {
         }
     });
     slideContainer.style.transition = 'transform 1s ease';
-    slideContainer.style.transform = `translateX(-${currentSlide * 100}%)`;
+    slideContainer.style.transform = `translateX(-${currentSlide * 120}px)`;
 }
 
 function nextSlide() {
