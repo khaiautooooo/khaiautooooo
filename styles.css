@@ -66,3 +66,34 @@ nav ul li a:hover {
     padding: 20px;
     text-align: center;
 }
+
+.slider {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    margin: 20px 0;
+}
+
+.slides {
+    display: flex;
+    transition: transform 1s ease;
+    will-change: transform;
+}
+
+.slide {
+    min-width: 100%;
+    transition: transform 0.5s ease;
+}
+
+.main-slide {
+    transform: scale(1.2);
+}
+
+.slide:not(.main-slide) {
+    opacity: 0.6;
+}
+
+.slide img {
+    width: 100%;
+    display: block;
+}
