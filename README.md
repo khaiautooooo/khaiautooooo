@@ -1,4 +1,4 @@
-# Halo! 👋 Saya Khaiautooooo
+# Halo! 👋 Saya Khairil rudi wibowo
 
 Saya adalah seorang **pengembang web** yang selalu bersemangat untuk belajar dan mengembangkan keterampilan. Berikut beberapa informasi tentang saya:
 
