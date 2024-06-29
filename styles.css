@@ -81,8 +81,9 @@ nav ul li a:hover {
 }
 
 .slide {
-    min-width: 100%;
+    min-width: 120px;
     transition: transform 0.5s ease;
+    text-align: center;
 }
 
 .main-slide {
@@ -94,6 +95,8 @@ nav ul li a:hover {
 }
 
 .slide img {
-    width: 100%;
+    width: 120px;
+    height: 120px;
     display: block;
+    margin: 0 auto;
 }
